@@ -21,6 +21,7 @@ project(BLPGEN)
 ### Setup include directory for this project
 ###-----------------------------------------------------------------------------
 include_directories(${PROJECT_SOURCE_DIR}/include)
+include_directories(${PROJECT_SOURCE_DIR}/data)
 
 
 
